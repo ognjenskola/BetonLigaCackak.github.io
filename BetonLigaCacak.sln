@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetonLigaCacak", "BetonLigaCacak.csproj", "{B72CCDF0-3727-4EA6-BABB-83E72393152E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B72CCDF0-3727-4EA6-BABB-83E72393152E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72CCDF0-3727-4EA6-BABB-83E72393152E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72CCDF0-3727-4EA6-BABB-83E72393152E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72CCDF0-3727-4EA6-BABB-83E72393152E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69A5AFF4-D2DC-4671-AB12-5B14357D876A}
+	EndGlobalSection
+EndGlobal
